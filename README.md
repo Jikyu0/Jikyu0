@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Juliana Mejía — Frontend Developer and UI/UX Designer" />
+  <img src="./assets/header.svg" width="100%" alt="Juliana Mejia — Frontend Developer and UI/UX Designer" />
 </div>
 
 <br />
@@ -85,4 +85,3 @@ I'm a **Multimedia Engineer** and **UI/UX Designer** focused on frontend develop
 <div align="center">
   <sub>Designing thoughtful interfaces and turning them into digital experiences.</sub>
 </div>
-
