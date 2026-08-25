@@ -92,28 +92,10 @@ I'm a **Multimedia Engineer** and **UI/UX Designer** focused on frontend develop
   />
 </div>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jikyu0&amp;theme=github_dark&amp;title_color=69D8FF&amp;text_color=DDE3F0&amp;bg_color=090A12&amp;border_color=303747&amp;icon_color=8D8CFF"
-        width="100%"
-        alt="Juliana's repositories by language"
-      />
-    </td>
-    <td width="50%" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jikyu0&amp;theme=github_dark&amp;title_color=69D8FF&amp;text_color=DDE3F0&amp;bg_color=090A12&amp;border_color=303747&amp;icon_color=8D8CFF"
-        width="100%"
-        alt="Juliana's GitHub statistics"
-      />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
   <img
     src="https://streak-stats.demolab.com?user=Jikyu0&amp;hide_border=true&amp;background=090A12&amp;ring=8D8CFF&amp;fire=69D8FF&amp;currStreakLabel=69D8FF&amp;sideLabels=DDE3F0&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=9AA5B1&amp;stroke=303747"
+    width="100%"
     alt="Juliana's GitHub contribution streak"
   />
 </div>
