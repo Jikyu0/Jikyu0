@@ -49,20 +49,29 @@ I'm a **Multimedia Engineer** and **UI/UX Designer** focused on frontend develop
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>SECUB</h3>
       <p>Frontend work for an academic assurance platform, including role-based experiences, complex workflows, tables, filters and a consistent interface system.</p>
       <p><code>React</code> <code>TypeScript</code> <code>UI/UX</code></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>RaizAR</h3>
       <p>Research-driven graduation PWA shaped through surveys and usability testing, with a strong focus on user experience and interface design.</p>
       <p><code>PWA</code> <code>UX Research</code> <code>UI Design</code></p>
     </td>
-    <td width="33%" valign="top">
-      <h3>HW Atelier</h3>
-      <p>Responsive institutional website with reusable components, structured content and an editorial visual direction for a textile creation house.</p>
-      <p><code>React</code> <code>Vite</code> <code>CSS Modules</code></p>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Jikyu0/Page_Portfolio">GOOD HEART</a></h3>
+      <p>Responsive jewelry storefront with an editorial visual direction, searchable collection, product routes, accessible interactions and a persistent shopping cart.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Vite</code></p>
+      <p><a href="https://github.com/Jikyu0/Page_Portfolio">View repository &rarr;</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Jikyu0/Parcial-Web">SyncSavid</a></h3>
+      <p>Collaborative bilingual wellness journal for organizing habits, meals, mood, sleep, tasks and personal insights through a calm, accessible experience.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>UI/UX</code></p>
+      <p><a href="https://github.com/Jikyu0/Parcial-Web">View repository &rarr;</a></p>
     </td>
   </tr>
 </table>
@@ -76,9 +85,56 @@ I'm a **Multimedia Engineer** and **UI/UX Designer** focused on frontend develop
 ## GitHub activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jikyu0&show_icons=true&hide_border=true&bg_color=00000000&title_color=C6A7FF&text_color=B9B8C8&icon_color=69D8FF" alt="Juliana's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jikyu0&layout=compact&hide_border=true&bg_color=00000000&title_color=C6A7FF&text_color=B9B8C8" alt="Juliana's most used languages" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jikyu0&amp;theme=github_dark&amp;title_color=69D8FF&amp;text_color=DDE3F0&amp;bg_color=090A12&amp;border_color=303747&amp;icon_color=8D8CFF"
+    width="100%"
+    alt="Juliana's GitHub contribution overview"
+  />
 </div>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jikyu0&amp;theme=github_dark&amp;title_color=69D8FF&amp;text_color=DDE3F0&amp;bg_color=090A12&amp;border_color=303747&amp;icon_color=8D8CFF"
+        width="100%"
+        alt="Juliana's repositories by language"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jikyu0&amp;theme=github_dark&amp;title_color=69D8FF&amp;text_color=DDE3F0&amp;bg_color=090A12&amp;border_color=303747&amp;icon_color=8D8CFF"
+        width="100%"
+        alt="Juliana's GitHub statistics"
+      />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Jikyu0&amp;hide_border=true&amp;background=090A12&amp;ring=8D8CFF&amp;fire=69D8FF&amp;currStreakLabel=69D8FF&amp;sideLabels=DDE3F0&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=9AA5B1&amp;stroke=303747"
+    alt="Juliana's GitHub contribution streak"
+  />
+</div>
+
+<br />
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Jikyu0/Jikyu0/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Jikyu0/Jikyu0/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Jikyu0/Jikyu0/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="Animated contribution graph"
+  />
+</picture>
 
 <br />
 
